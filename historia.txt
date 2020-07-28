@@ -1,5 +1,5 @@
 Asdf
 Beto fuentes
 16 04 1998
-Beto fuentes contreras, modifiqué el directorio completo
+Alberto Israel Fuentes Contreras. Modifiqué el directorio completo.
 En 2020 esta tomando un curso de git
